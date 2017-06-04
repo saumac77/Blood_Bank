@@ -1,0 +1,4 @@
+PROJECT : BLOOD BANK MANAGEMENT
+
+HOMEPAGE :  go to ---- pages
+	                  ---- homepage.html			

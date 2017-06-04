@@ -1,0 +1,15 @@
+<html>
+<head>
+	<title>Who needs blood?</title>
+</head>
+
+<body bgcolor = "ffe4e1">
+	<font face = "Bookman Old Style" font = "5" color = "balck">
+
+Under normal circumstances, every two seconds someone needs a blood transfusion. <br>Blood transfusions are used for trauma victims - due to accidents and burns - heart surgery, organ transplants, women with complications during childbirth, newborns and premature babies, and patients receiving treatment for leukemia, cancer or other diseases, such as sickle cell disease and thalassemia.<br>
+Also there are many circumstances under which the need of blood is extremely required.
+
+</font>
+</body>
+</html>
+ 
